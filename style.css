@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+}
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 36px auto;
+    box-shadow: 0px 0px 3px -1px #000000dd;
+    border-color: #000000dd;
+    text-align: center;
+}
+td {
+    border-bottom: 1px solid #9c9c9cdd;
+    border-right: 1px solid #9c9c9cdd;
+    border-left: 1px solid #9c9c9cdd;
+    padding: 10px 10px;
+    font-size: 12px;
+}
+tbody {
+    text-align: center;
+}
+.sem{
+    padding: 10px 5px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: #539fea;
+}
+.sem-header {
+    padding: 11px 35px;
+    font-weight: bold;
+    background-color: #e2e2e2;
+}
+tr{
+    background-color: #87CFEA;
+}
+.in-progress{
+    background-color: yellow;
+}
+.not-taken{
+    background-color: white;
+}
+.course{
+    margin: 1px auto;
+    font-size: smaller;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.name{
+    margin: 1px auto;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.id-number{
+    margin: 1px auto;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
