@@ -3,7 +3,6 @@ body{
 }
 table {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin: 36px auto;
     box-shadow: 0px 0px 3px -1px #000000dd;
     border-color: #000000dd;
     text-align: center;
@@ -21,6 +20,8 @@ tbody {
 .sem{
     padding: 10px 5px;
     font-weight: bold;
+    width:max-content;
+    align-items: center;
     color: rgb(255, 255, 255);
     background-color: #539fea;
 }
