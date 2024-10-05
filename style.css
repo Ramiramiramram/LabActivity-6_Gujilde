@@ -1,11 +1,18 @@
 body{
     text-align: center;
+    justify-content: center;
+    margin: 1px auto;
+    font-size: smaller;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 table {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 36px auto;
+    border-collapse: collapse;
     box-shadow: 0px 0px 3px -1px #000000dd;
     border-color: #000000dd;
-    text-align: center;
 }
 td {
     border-bottom: 1px solid #9c9c9cdd;
@@ -16,8 +23,9 @@ td {
 }
 tbody {
     text-align: center;
+    justify-content: center;
 }
-.sem{
+.sem-level{
     padding: 10px 5px;
     font-weight: bold;
     width:max-content;
@@ -38,22 +46,4 @@ tr{
 }
 .not-taken{
     background-color: white;
-}
-.course{
-    margin: 1px auto;
-    font-size: smaller;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-}
-.name{
-    margin: 1px auto;
-    font-size: small;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
-}
-.id-number{
-    margin: 1px auto;
-    font-size: small;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
 }
