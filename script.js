@@ -9,6 +9,7 @@ $(() => {
             "unit-header": "Unit",
             "grade-header": "Grade",
             "remarks-header": "Remarks",
+            "course2-header": "Course",
             "term-header": "Term"
         },
         {
@@ -17,6 +18,7 @@ $(() => {
             "unit": 3,
             "grade": 1.90,
             "remarks": "Passed",
+            "course2": "NSTP01",
             "term": "First Semester A.Y. 2022-2023"
         },
         {
@@ -25,6 +27,7 @@ $(() => {
             "unit": 3,
             "grade": 2.10,
             "remarks": "Passed",
+            "course2": "SCITEC",
             "term": "First Semester A.Y. 2022-2023"
         },
         {
@@ -33,6 +36,7 @@ $(() => {
             "unit": 3,
             "grade": 1.60,
             "remarks": "Passed",
+            "course2": "INTCOM",
             "term": "First Semester A.Y. 2022-2023"
         },
         {
@@ -41,6 +45,7 @@ $(() => {
             "unit": 3,
             "grade": 1.60,
             "remarks": "Passed",
+            "course2": "COPRO1",
             "term": "First Semester A.Y. 2022-2023"
         },
         {
@@ -49,6 +54,7 @@ $(() => {
             "unit": 3,
             "grade": 1.60,
             "remarks": "Passed",
+            "course2": "COMPOP",
             "term": "First Semester A.Y. 2022-2023"
         },
         {
@@ -57,6 +63,7 @@ $(() => {
             "unit": 2,
             "grade": 1.60,
             "remarks": "Passed",
+            "course2": "PEDUC1",
             "term": "First Semester A.Y. 2022-2023"
         },
         {
@@ -65,6 +72,7 @@ $(() => {
             "unit": 3,
             "grade": 1.50,
             "remarks": "Passed",
+            "course2": "JRIZAL",
             "term": "First Semester A.Y. 2022-2023"
         },
         //2nd Sem
@@ -75,6 +83,7 @@ $(() => {
             "unit-header": "Unit",
             "grade-header": "Grade",
             "remarks-header": "Remarks",
+            "course2-header": "Course",
             "term-header": "Term"
         },
         {
@@ -83,6 +92,7 @@ $(() => {
             "unit": 3,
             "grade": 1.40,
             "remarks": "Passed",
+            "course2": "OOPROG",
             "term": "Second Semester A.Y. 2022-2023"
         },
         {
@@ -91,6 +101,7 @@ $(() => {
             "unit": 3,
             "grade": 1.40,
             "remarks": "Passed",
+            "course2": "ARTAPP",
             "term": "Second Semester A.Y. 2022-2023"
         },
         {
@@ -99,6 +110,7 @@ $(() => {
             "unit": 3,
             "grade": 1.70,
             "remarks": "Passed",
+            "course2": "PURCOM",
             "term": "Second Semester A.Y. 2022-2023"
         },
         {
@@ -107,6 +119,7 @@ $(() => {
             "unit": 3,
             "grade": 1.40,
             "remarks": "Passed",
+            "course2": "NSTP02",
             "term": "Second Semester A.Y. 2022-2023"
         },
         {
@@ -115,6 +128,7 @@ $(() => {
             "unit": 3,
             "grade": 1.90,
             "remarks": "Passed",
+            "course2": "DSTRU1",
             "term": "Second Semester A.Y. 2022-2023"
         },
         {
@@ -123,6 +137,7 @@ $(() => {
             "unit": 2,
             "grade": 1.30,
             "remarks": "Passed",
+            "course2": "PEDUC2",
             "term": "Second Semester A.Y. 2022-2023"
         },
         {
@@ -131,6 +146,7 @@ $(() => {
             "unit": 3,
             "grade": 1.20,
             "remarks": "Passed",
+            "course2": "COPRO2",
             "term": "Second Semester A.Y. 2022-2023"
         },
         {
@@ -139,6 +155,7 @@ $(() => {
             "unit": 3,
             "grade": 1.70,
             "remarks": "Passed",
+            "course2": "GEEL01",
             "term": "Second Semester A.Y. 2023"
         },
         //3rd Sem
@@ -149,6 +166,7 @@ $(() => {
             "unit-header": "Unit",
             "grade-header": "Grade",
             "remarks-header": "Remarks",
+            "course2-header": "Course",
             "term-header": "Term"
         },
         {
@@ -157,6 +175,7 @@ $(() => {
             "unit": 3,
             "grade": 1.70,
             "remarks": "Passed",
+            "course2": "ANIMUL",
             "term": "First Semester A.Y. 2023-2024"
         },
         {
@@ -165,6 +184,7 @@ $(() => {
             "unit": 3,
             "grade": 1.70,
             "remarks": "Passed",
+            "course2": "HUMCOM",
             "term": "First Semester A.Y. 2023-2024"
         },
         {
@@ -173,6 +193,7 @@ $(() => {
             "unit": 3,
             "grade": 1.40,
             "remarks": "Passed",
+            "course2": "MATMOD",
             "term": "First Semester A.Y. 2023-2024"
         },
         {
@@ -181,6 +202,7 @@ $(() => {
             "unit": 3,
             "grade": 1.50,
             "remarks": "Passed",
+            "course2": "DASTRU",
             "term": "First Semester A.Y. 2023-2024"
         },
         {
@@ -189,6 +211,7 @@ $(() => {
             "unit": 3,
             "grade": 1.70,
             "remarks": "Passed",
+            "course2": "NETWRK",
             "term": "First Semester A.Y. 2023-2024"
         },
         {
@@ -197,6 +220,7 @@ $(() => {
             "unit": 3,
             "grade": 1.10,
             "remarks": "Passed",
+            "course2": "GEEL02",
             "term": "First Semester A.Y. 2023-2024"
         },
         {
@@ -204,7 +228,9 @@ $(() => {
             "description": "Physical Activities Towards Health and Fitness 3",
             "unit": 2,
             "grade": "",
-            "remarks": "In Progress"
+            "remarks": "In Progress",
+            "course2": "",
+            "term": ""
         },
         //4th Sem
         {
@@ -214,6 +240,7 @@ $(() => {
             "unit-header": "Unit",
             "grade-header": "Grade",
             "remarks-header": "Remarks",
+            "course2-header": "Course",
             "term-header": "Term"
         },
         {
@@ -222,6 +249,7 @@ $(() => {
             "unit": 3,
             "grade": 1.80,
             "remarks": "Passed",
+            "course2": "UNDSLF",
             "term": "Second Semester A.Y. 2023-2024"
         },
         {
@@ -230,6 +258,7 @@ $(() => {
             "unit": 3,
             "grade": 1.60,
             "remarks": "Passed",
+            "course2": "INMANA",
             "term": "Second Semester A.Y. 2023-2024"
         },
         {
@@ -238,6 +267,7 @@ $(() => {
             "unit": 3,
             "grade": 1.60,
             "remarks": "Passed",
+            "course2": "EVEDRI",
             "term": "Second Semester A.Y. 2023-2024"
         },
         {
@@ -246,6 +276,7 @@ $(() => {
             "unit": 3,
             "grade": 1.30,
             "remarks": "Passed",
+            "course2": "PROEL1",
             "term": "Second Semester A.Y. 2023-2024"
         },
         {
@@ -254,14 +285,16 @@ $(() => {
             "unit": 3,
             "grade": 1.70,
             "remarks": "Passed",
+            "course2": "TECHNO",
             "term": "Second Semester A.Y. 2023-2024"
         },
         {
             "course": "GEEL03",
-            "description": "Technopreneurship",
+            "description": "General Education Elective 3",
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -270,6 +303,7 @@ $(() => {
             "unit": 2,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         //5th Sem
@@ -280,6 +314,7 @@ $(() => {
             "unit-header": "Unit",
             "grade-header": "Grade",
             "remarks-header": "Remarks",
+            "course2-header": "Course",
             "term-header": "Term"
         },
         {
@@ -288,6 +323,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "In Progress",
+            "course2": "",
             "term": ""
         },
         {
@@ -296,6 +332,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "In Progress",
+            "course2": "",
             "term": ""
         },
         {
@@ -304,6 +341,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "In Progress",
+            "course2": "",
             "term": ""
         },
         {
@@ -312,6 +350,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "In Progress",
+            "course2": "",
             "term": ""
         },
         {
@@ -320,6 +359,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "In Progress",
+            "course2": "",
             "term": ""
         },
         {
@@ -328,6 +368,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "In Progress",
+            "course2": "",
             "term": ""
         },
         //6th Sem
@@ -338,6 +379,7 @@ $(() => {
             "unit-header": "Unit",
             "grade-header": "Grade",
             "remarks-header": "Remarks",
+            "course2-header": "Course",
             "term-header": "Term"
         },
         {
@@ -346,6 +388,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -354,6 +397,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -362,6 +406,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -370,6 +415,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -378,6 +424,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -386,6 +433,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         //7th Sem
@@ -396,6 +444,7 @@ $(() => {
             "unit-header": "Unit",
             "grade-header": "Grade",
             "remarks-header": "Remarks",
+            "course2-header": "Course",
             "term-header": "Term"
         },
         {
@@ -404,6 +453,7 @@ $(() => {
             "unit": 3,
             "grade": 1.50,
             "remarks": "Passed",
+            "course2": "CONWOR",
             "term": "Second Semester A.Y 2023-2024"
         },
         {
@@ -412,6 +462,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -420,6 +471,7 @@ $(() => {
             "unit": 5,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -428,6 +480,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -436,6 +489,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         //8th Sem
@@ -446,6 +500,7 @@ $(() => {
             "unit-header": "Unit",
             "grade-header": "Grade",
             "remarks-header": "Remarks",
+            "course2-header": "Course",
             "term-header": "Term"
         },
         {
@@ -454,6 +509,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -462,6 +518,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -470,6 +527,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -478,6 +536,7 @@ $(() => {
             "unit": 5,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         },
         {
@@ -486,6 +545,7 @@ $(() => {
             "unit": 3,
             "grade": "",
             "remarks": "",
+            "course2": "",
             "term": ""
         }
         
@@ -494,7 +554,7 @@ $(() => {
         if (item["sem-level"]) {
             $("#data").append(
                 `<tr>
-                    <td colspan="6" class="sem-level">${item["sem-level"]}</td>
+                    <td colspan="7" class="sem-level">${item["sem-level"]}</td>
                 </tr>
                 <tr class="sem-header">
                     <td>${item["course-header"]}</td>
@@ -502,6 +562,7 @@ $(() => {
                     <td>${item["unit-header"]}</td>
                     <td>${item["grade-header"]}</td>
                     <td>${item["remarks-header"]}</td>
+                    <td>${item["course2-header"]}</td>
                     <td>${item["term-header"]}</td>
                 </tr>`
             )
@@ -514,6 +575,7 @@ $(() => {
                     <td>${item["unit"]}</td>
                     <td>${item["grade"]}</td>
                     <td>${item["remarks"]}</td>
+                    <td>${item["course2"]}</td>
                     <td>${item["term"]}</td>
                 </tr>`
             )
@@ -526,6 +588,7 @@ $(() => {
                     <td>${item["unit"]}</td>
                     <td>${item["grade"]}</td>
                     <td>${item["remarks"]}</td>
+                    <td>${item["course2"]}</td>
                     <td>${item["term"]}</td>
                 </tr>`
             )
@@ -538,6 +601,7 @@ $(() => {
                     <td>${item["unit"]}</td>
                     <td>${item["grade"]}</td>
                     <td>${item["remarks"]}</td>
+                    <td>${item["course2"]}</td>
                     <td>${item["term"]}</td>
                 </tr>`
             )
